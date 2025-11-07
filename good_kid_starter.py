@@ -7,3 +7,4 @@ for _ in range(testcase_cnt):
     res = 0
     # Implement Good kid algorithm
     # print(res)
+    # Путинцев Д.В.
