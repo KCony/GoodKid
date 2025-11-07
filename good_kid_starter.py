@@ -6,4 +6,4 @@ for _ in range(testcase_cnt):
     arr = [int(elem) for elem in input().split()]
     res = 0
     # Implement Good kid algorithm
-    print(res)
+    # print(res)
